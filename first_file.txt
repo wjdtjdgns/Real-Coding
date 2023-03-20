@@ -1,3 +1,4 @@
 first
 second
 git fetch
+git pull
